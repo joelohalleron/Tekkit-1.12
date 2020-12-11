@@ -5,4 +5,5 @@ Run the forge.jar file and select client, click ok
 
 When done
 
-Unzip file and place all mods in c:/Users/[USERNAME]/AppData/Roaming/.minecraft/mods/
+Place Tekkit-1.12.zip in c:/Users/[USERNAME]/AppData/Roaming/.minecraft/mods/ then 
+right click on it and select "extract here"
